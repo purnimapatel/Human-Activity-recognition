@@ -11,6 +11,7 @@
   <li>Standing</li>
   <li>Laying</li>
 </ol>
+  <img src="Images/HAR.png" alt="error loading image">
 <p>In this project I have predicted the human activity by using a deep_learning model RNN_LSTM</p>
 <p>The Human Ativity Recognition is applied in the field of the  Serveillance System,Healthcare,Human Computer Intraction etc.</p>
 <h2> Dataset Info:</h2>
