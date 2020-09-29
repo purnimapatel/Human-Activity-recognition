@@ -27,7 +27,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 <p>LSTMs have an edge over conventional feed-forward neural networks and RNN in many ways. This is because of their property of selectively remembering patterns for long durations of time. It impoves the RNN model by removing the plroblem caused by vanishing gradient.</p>
 
- <img src="cleanuri.com/M06JOm" alt="error loading image">
+ <img src="Images/lstm.gif" alt="error loading image">
 
 <h2>Result</h2>
 Testing Accuracy: 86.63046956062317%
