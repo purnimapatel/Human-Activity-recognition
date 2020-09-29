@@ -21,7 +21,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 <h2>Model Info:</h2>
 <h3>Recurrence Neural Network</h3>
 <p>Recurrence Neural Network (RNN) are a type of Neural Network in which the output from the previous steps are fed as input to the current step.The most important feature of the RNN is  <strong>Hidden Layer</strong> which remembers information about a sequence.RNN have a memory which remembers all information about what has been calculated.</p>
-  <img src="working-of-rnn-in-tensorflow3.png" alt="error loading image">
+  <img src="Images/working-of-rnn-in-tensorflow3.png" alt="error loading image">
 <h3>LSTM</h3>
 <p>With the recent breakthroughs that have been happening in data science, it is found that for almost all of these sequence prediction problems, Long short Term Memory networks, a.k.a LSTMs have been observed as the most effective solution.</p>
 
@@ -29,7 +29,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
  <img src="Images/lstm.gif" alt="error loading image">
 
-<h2>Result</h2>
+<h2>Result:</h2>
 Testing Accuracy: 86.63046956062317%
 
 Precision: 86.98466418351313%
@@ -43,5 +43,6 @@ Confusion Matrix:
  [  0   3   0 389  94   5]
  [  0   2   0  68 462   0]
  [  0   2   0   0   6 529]]
+  <img src="Images/HAR_result.png" alt="error loading image">
  
  
